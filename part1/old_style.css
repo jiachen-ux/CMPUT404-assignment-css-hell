@@ -1,0 +1,25 @@
+body {
+    background-image : url(./images/background.jpg) !important;
+}
+
+p{
+    color: black;
+    font-size: large;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+img{
+    background: white;
+    padding: 5px;
+    text-align: left;
+    font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: 600 !important;
+}
+

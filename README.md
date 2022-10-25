@@ -12,6 +12,28 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+=================
+
+Changes to the gutenberg webpage
+=================
+
+body
+1. added background color from an image
+
+p
+1. increased font size
+2. added spaces between paragraphs
+3. changed font family to 'Time New Roman', serif
+
+img
+1. added a white border around image
+2. changed caption to italic and moved to left aligned
+
+header
+1. bolded the font for chapter header
+2. changed font family to 'Time New Roman', serif
+
+
 License/Copyright
 =================
 
