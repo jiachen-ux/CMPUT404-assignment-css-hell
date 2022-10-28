@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin-right: 10ex;
+    margin-left: 10ex;
+    padding-bottom: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+img{
+    float: left;
+    width: 150pt;
+    margin-right: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200pt;
+    background-color: #11999E;
+    text-align: center;
+}
+
+.offer{
+    margin-top: 20ex;
+    margin-right: 30ex;
+}
+
+.sidebar {
+    height: 100%;
+    padding: 0 1em;
+    width: 14em;
+    float: right;
+    background-color: lightgray;
+    text-align: left;
+}
+
+.experence{
+    margin-top: 5ex;
+    margin-right: 30ex;
+}
+
+.skill{
+    margin-top: 5ex;
+}

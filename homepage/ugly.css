@@ -29,22 +29,12 @@ h2,h3,h4 {
 img { 
    background: white;
    padding: 5px;
+   text-align: center;
 }
 
-.image{
-    text-align: center;
-}
 
-.columns{
-    margin-left: 15ex;
-    list-style-type: disc;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    columns: 2;
-    list-style-position: inside;
-}
 
-.intro,.offer,.nvent,.ta,.skill	{
+.intro,.offer,.nvent,.ta{
 	position:relative;
 	margin-bottom:50px;
 	padding:25px;
